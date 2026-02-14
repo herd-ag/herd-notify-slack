@@ -33,9 +33,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dbt-conceptual/herd-notify-slack"
-Repository = "https://github.com/dbt-conceptual/herd-notify-slack"
-Issues = "https://github.com/dbt-conceptual/herd-notify-slack/issues"
+Homepage = "https://github.com/herd-ag/herd-notify-slack"
+Repository = "https://github.com/herd-ag/herd-notify-slack"
+Issues = "https://github.com/herd-ag/herd-notify-slack/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0"]
