@@ -2,7 +2,7 @@
 
 **Herd notification adapter for Slack.**
 
-Implements the `NotifyAdapter` protocol from [herd-core](https://github.com/dbt-conceptual/herd-core) for posting messages, managing threads, and searching Slack conversations.
+Implements the `NotifyAdapter` protocol from [herd-core](https://github.com/herd-ag/herd-core) for posting messages, managing threads, and searching Slack conversations.
 
 Part of [The Herd](https://github.com/herd-ag/herd-core) ecosystem.
 
